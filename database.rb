@@ -1,28 +1,27 @@
 require 'dbm'
 
+# Database utilities
 module Database
-  def Database.execute_action(name)
-    begin
-      db = DBM.open("db/#{name}", 0666, DBM::WRCREAT)
-      yield(db)
-    ensure
-      db.close unless db.closed?
-    end
+  def self.execute_action(name)
+    db = DBM.open("db/#{name}", 0666, DBM::WRCREAT)
+    yield(db)
+  ensure
+    db.close unless db.closed?
   end
 
-  def Database.store(name, hash)
-    execute_action(name) { |db|  hash.keys.each { |key| db[key] = hash[key] } }
+  def self.store(name, hash)
+    execute_action(name) { |db| hash.each_key { |key| db[key] = hash[key] } }
   end
 
-  def Database.get_value(name, key)
+  def self.get_value(name, key)
     execute_action(name) { |db| db[key] }
   end
 
-  def Database.delete(name, key)
+  def self.delete(name, key)
     execute_action(name) { |db| db.delete(key) }
   end
 
-  def Database.has_key?(name, key)
-    execute_action(name) { |db| db.has_key?(key) }
+  def self.key?(name, key)
+    execute_action(name) { |db| db.key?(key) }
   end
 end
