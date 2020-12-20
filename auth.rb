@@ -9,8 +9,17 @@ require_relative 'client'
 
 @db_name = 'access'
 
-@client_id     = 'bd1b5b5c8df84d06aab47b28969060b4'
-@client_secret = 'e894025a81c54a7198ec9e534fdc42cf'
+unless Database.key?('credentials', 'client_id')
+  puts 'Insert Client ID:'
+  client_id = gets.chomp
+  puts 'Insert Client Secret:'
+  client_secret = gets.chomp
+
+  Database.store('credentials', { 'client_id' => client_id, 'client_secret' => client_secret })
+end
+
+@client_id     = Database.get_value('credentials', 'client_id')
+@client_secret = Database.get_value('credentials', 'client_secret')
 
 @redirect_uri = CGI.escape('http://localhost:4567/callback')
 @scopes       = 'playlist-modify-private'
@@ -73,7 +82,8 @@ def refresh_token
       'Content-Type': 'application/x-www-form-urlencoded',
       Authorization: "Basic #{Base64.strict_encode64("#{@client_id}:#{@client_secret}")}"
     },
-    payload: { grant_type: 'refresh_token', refresh_token: Database.get_value(@db_name, 'refresh_token') }
+    payload: { grant_type: 'refresh_token', refresh_token: Database.get_value(@db_name, 'refresh_token') },
+    preparsed: true
   )
 
   Database.store(@db_name, { 'access_token' => json['access_token'], 'expires_at' => expires_at(json['expires_in']) })
