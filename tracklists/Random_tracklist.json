@@ -1,0 +1,313 @@
+[
+  {
+    "id": 1,
+    "trackName": "Control",
+    "artists": [
+      "McKenzie Small"
+    ]
+  },
+  {
+    "id": 2,
+    "trackName": "London To Libya",
+    "artists": [
+      "Tim Armstrong"
+    ]
+  },
+  {
+    "id": 3,
+    "trackName": "Sekuntum Mawar Merah",
+    "artists": [
+      "Hattan"
+    ]
+  },
+  {
+    "id": 4,
+    "trackName": "I Think I Know",
+    "artists": [
+      "Ian Gillan"
+    ]
+  },
+  {
+    "id": 5,
+    "trackName": "Paralyzed",
+    "artists": [
+      "Imminence"
+    ]
+  },
+  {
+    "id": 6,
+    "trackName": "The Dead Sea",
+    "artists": [
+      "Fallujah"
+    ]
+  },
+  {
+    "id": 7,
+    "trackName": "The Arrival of the False Gods",
+    "artists": [
+      "Noctem"
+    ]
+  },
+  {
+    "id": 8,
+    "trackName": "Spineless",
+    "artists": [
+      "ABUSE."
+    ]
+  },
+  {
+    "id": 9,
+    "trackName": "Riot",
+    "artists": [
+      "S-core"
+    ]
+  },
+  {
+    "id": 10,
+    "trackName": "In Shadows and Dust",
+    "artists": [
+      "Unborn Suffer"
+    ]
+  },
+  {
+    "id": 11,
+    "trackName": "Mental Abortion",
+    "artists": [
+      "Bloodbath"
+    ]
+  },
+  {
+    "id": 12,
+    "trackName": "Nekromantik Store",
+    "artists": [
+      "Necrotorture"
+    ]
+  },
+  {
+    "id": 13,
+    "trackName": "Strangled Within Coils",
+    "artists": [
+      "Abysmal Torment"
+    ]
+  },
+  {
+    "id": 14,
+    "trackName": "Svitanok",
+    "artists": [
+      "Onuka"
+    ]
+  },
+  {
+    "id": 15,
+    "trackName": "Ein",
+    "artists": [
+      "GDRN",
+      "Ra:tio"
+    ]
+  },
+  {
+    "id": 16,
+    "trackName": "Need You",
+    "artists": [
+      "JOY."
+    ]
+  },
+  {
+    "id": 17,
+    "trackName": "Blind Belief",
+    "artists": [
+      "Natalia Avelon"
+    ]
+  },
+  {
+    "id": 18,
+    "trackName": "Juicebox Season",
+    "artists": [
+      "Charlee Remitz"
+    ]
+  },
+  {
+    "id": 19,
+    "trackName": "Crazy's Your Type",
+    "artists": [
+      "Kira Kosarin"
+    ]
+  },
+  {
+    "id": 20,
+    "trackName": "Embalao",
+    "artists": [
+      "LIZZ"
+    ]
+  },
+  {
+    "id": 21,
+    "trackName": "Trip & Hop",
+    "artists": [
+      "Claud 9"
+    ]
+  },
+  {
+    "id": 22,
+    "trackName": "Mi gira la testa",
+    "artists": [
+      "Seba",
+      "Mario Venuti"
+    ]
+  },
+  {
+    "id": 23,
+    "trackName": "Why Do You Go",
+    "artists": [
+      "Jenny",
+      "MKK"
+    ]
+  },
+  {
+    "id": 24,
+    "trackName": "down by the brook",
+    "artists": [
+      "Biosphere"
+    ]
+  },
+  {
+    "id": 25,
+    "trackName": "Glory Night",
+    "artists": [
+      "Axel Rudi Pell"
+    ]
+  },
+  {
+    "id": 26,
+    "trackName": "Battle Song",
+    "artists": [
+      "Plan Three"
+    ]
+  },
+  {
+    "id": 27,
+    "trackName": "Wonderful World",
+    "artists": [
+      "Mechanical Man"
+    ]
+  },
+  {
+    "id": 28,
+    "trackName": "M'Agapaei",
+    "artists": [
+      "Marina Skiadaresi"
+    ]
+  },
+  {
+    "id": 29,
+    "trackName": "Mirrored In Your Eyes",
+    "artists": [
+      "Sandra"
+    ]
+  },
+  {
+    "id": 30,
+    "trackName": "Nu Ren De Xin Dou Yi Yang",
+    "artists": [
+      "Wan Sun Kim"
+    ]
+  },
+  {
+    "id": 31,
+    "trackName": "Despise",
+    "artists": [
+      "Neptune Thomas"
+    ]
+  },
+  {
+    "id": 32,
+    "trackName": "Stagnate",
+    "artists": [
+      "Godhead"
+    ]
+  },
+  {
+    "id": 33,
+    "trackName": "Turma",
+    "artists": [
+      "Häive"
+    ]
+  },
+  {
+    "id": 34,
+    "trackName": "Intro",
+    "artists": [
+      "Living Laser"
+    ]
+  },
+  {
+    "id": 35,
+    "trackName": "Bring Me",
+    "artists": [
+      "Szeg"
+    ]
+  },
+  {
+    "id": 36,
+    "trackName": "Jasmine",
+    "artists": [
+      "Turan in Veltha"
+    ]
+  },
+  {
+    "id": 37,
+    "trackName": "Prescilla",
+    "artists": [
+      "Bat For Lashes"
+    ]
+  },
+  {
+    "id": 38,
+    "trackName": "I See Fire",
+    "artists": [
+      "Caroline Costa"
+    ]
+  },
+  {
+    "id": 39,
+    "trackName": "Fourteen",
+    "artists": [
+      "Blossoms"
+    ]
+  },
+  {
+    "id": 40,
+    "trackName": "Folklore in Tokoyo.Tokyo",
+    "artists": [
+      "Suezo"
+    ]
+  },
+  {
+    "id": 41,
+    "trackName": "Speak Up",
+    "artists": [
+      "Dana"
+    ]
+  },
+  {
+    "id": 42,
+    "trackName": "Noizküt",
+    "artists": [
+      "Phinx"
+    ]
+  },
+  {
+    "id": 43,
+    "trackName": "Missed for a Lifetime",
+    "artists": [
+      "Wynardtage"
+    ]
+  },
+  {
+    "id": 44,
+    "trackName": "Alone",
+    "artists": [
+      "Cross-Over"
+    ]
+  }
+]

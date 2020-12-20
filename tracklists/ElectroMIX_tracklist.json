@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "trackName": "Seventh Day",
+    "artists": [
+      "Besomorph",
+      "Coopex",
+      "Sarah de Warren"
+    ]
+  },
+  {
+    "id": 2,
+    "trackName": "In Touch",
+    "artists": [
+      "Murdock",
+      "Veela"
+    ]
+  },
+  {
+    "id": 3,
+    "trackName": "Shadows",
+    "artists": [
+      "it's different"
+    ]
+  },
+  {
+    "id": 4,
+    "trackName": "You",
+    "artists": [
+      "Besomorph",
+      "Sarah de Warren",
+      "Jagsy"
+    ]
+  },
+  {
+    "id": 5,
+    "trackName": "Kneel Before Me",
+    "artists": [
+      "Slander",
+      "Crankdat",
+      "Asking Alexandria"
+    ]
+  },
+  {
+    "id": 6,
+    "trackName": "Shadows",
+    "artists": [
+      "Aero Chord",
+      "Nevve"
+    ]
+  },
+  {
+    "id": 7,
+    "trackName": "Crazy",
+    "artists": [
+      "TRFN"
+    ]
+  },
+  {
+    "id": 8,
+    "trackName": "Senses",
+    "artists": [
+      "Snavs",
+      "Todd Helder"
+    ]
+  },
+  {
+    "id": 9,
+    "trackName": "Dynasty (Mumbai)",
+    "artists": [
+      "Jdg",
+      "Karra",
+      "Samual James"
+    ]
+  },
+  {
+    "id": 10,
+    "trackName": "Got Me Thinking",
+    "artists": [
+      "Maduk",
+      "Veela"
+    ]
+  },
+  {
+    "id": 11,
+    "trackName": "Never Gonna Stop",
+    "artists": [
+      "Aash Mehta",
+      "Aviella"
+    ]
+  },
+  {
+    "id": 12,
+    "trackName": "Hot",
+    "artists": [
+      "Parah Dice"
+    ]
+  },
+  {
+    "id": 13,
+    "trackName": "Close My Eyes",
+    "artists": [
+      "Happy Deny",
+      "Pablo Moriego",
+      "Miper"
+    ]
+  },
+  {
+    "id": 14,
+    "trackName": "Stars",
+    "artists": [
+      "Vize",
+      "Laniia"
+    ]
+  },
+  {
+    "id": 15,
+    "trackName": "We Won't Be Alone",
+    "artists": [
+      "Feint",
+      "Laura Brehm"
+    ]
+  },
+  {
+    "id": 16,
+    "trackName": "Breathe",
+    "artists": [
+      "Champion",
+      "Veela"
+    ]
+  },
+  {
+    "id": 17,
+    "trackName": "Let Yourself Go",
+    "artists": [
+      "Under This"
+    ]
+  },
+  {
+    "id": 18,
+    "trackName": "Tuesday",
+    "artists": [
+      "Burak Yeter",
+      "Danelle Sandoval"
+    ]
+  },
+  {
+    "id": 19,
+    "trackName": "Cause I`m Crazy",
+    "artists": [
+      "Wandy Hours"
+    ]
+  },
+  {
+    "id": 20,
+    "trackName": "Abomination",
+    "artists": [
+      "Sundre"
+    ]
+  },
+  {
+    "id": 21,
+    "trackName": "Horizons",
+    "artists": [
+      "Feint",
+      "Veela"
+    ]
+  },
+  {
+    "id": 22,
+    "trackName": "Raccoon City",
+    "artists": [
+      "Aether",
+      "SizzleBird",
+      "Veela"
+    ]
+  },
+  {
+    "id": 23,
+    "trackName": "The Journey",
+    "artists": [
+      "Feint",
+      "Veela"
+    ]
+  },
+  {
+    "id": 24,
+    "trackName": "Yours Truly (feat. Danyka Nadeau)",
+    "artists": [
+      "Mr FijiWiji",
+      "Danyka Nadeau"
+    ]
+  },
+  {
+    "id": 25,
+    "trackName": "Change Me",
+    "artists": [
+      "Fytch",
+      "Naika"
+    ]
+  },
+  {
+    "id": 26,
+    "trackName": "Iris in the Dark",
+    "artists": [
+      "Just A Gent",
+      "McCall"
+    ]
+  },
+  {
+    "id": 27,
+    "trackName": "The Moments I'm Missing",
+    "artists": [
+      "Nina Nesbitt",
+      "Ranji",
+      "WHITENO1SE"
+    ]
+  },
+  {
+    "id": 28,
+    "trackName": "The Spell",
+    "artists": [
+      "Solarstone",
+      "Clare Stagg"
+    ]
+  },
+  {
+    "id": 29,
+    "trackName": "Pure Sunlight",
+    "artists": [
+      "Trivecta",
+      "Laura Brehm",
+      "Mr FijiWiji",
+      "AgNO3"
+    ]
+  },
+  {
+    "id": 30,
+    "trackName": "Ghost Spores (feat. Laura Brehm)",
+    "artists": [
+      "Varien",
+      "Laura Brehm"
+    ]
+  },
+  {
+    "id": 31,
+    "trackName": "Hearts Connected",
+    "artists": [
+      "Cathy Burton",
+      "Omnia"
+    ]
+  },
+  {
+    "id": 32,
+    "trackName": "Losing You",
+    "artists": [
+      "Ephixa",
+      "Laura Brehm"
+    ]
+  },
+  {
+    "id": 33,
+    "trackName": "Outbreak",
+    "artists": [
+      "Feint",
+      "Mylk"
+    ]
+  },
+  {
+    "id": 34,
+    "trackName": "Free Tibet",
+    "artists": [
+      "Hilight Tribe"
+    ]
+  },
+  {
+    "id": 35,
+    "trackName": "Snake Eyes",
+    "artists": [
+      "Feint",
+      "Coma"
+    ]
+  },
+  {
+    "id": 36,
+    "trackName": "Shadow",
+    "artists": [
+      "Triplo Max"
+    ]
+  },
+  {
+    "id": 37,
+    "trackName": "Make This Right",
+    "artists": [
+      "The Toxic Avenger"
+    ]
+  },
+  {
+    "id": 38,
+    "trackName": "Aether and Light",
+    "artists": [
+      "Varien"
+    ]
+  },
+  {
+    "id": 39,
+    "trackName": "Ghost Spores (feat. Laura Brehm)",
+    "artists": [
+      "Varien",
+      "Laura Brehm"
+    ]
+  },
+  {
+    "id": 40,
+    "trackName": "Chaos",
+    "artists": [
+      "Snavs"
+    ]
+  },
+  {
+    "id": 41,
+    "trackName": "The Scarlet Dawn",
+    "artists": [
+      "Varien"
+    ]
+  },
+  {
+    "id": 42,
+    "trackName": "Valkyrie",
+    "artists": [
+      "Varien",
+      "Laura Brehm"
+    ]
+  },
+  {
+    "id": 43,
+    "trackName": "Throne of Ravens",
+    "artists": [
+      "Varien"
+    ]
+  },
+  {
+    "id": 44,
+    "trackName": "Love Wins Again",
+    "artists": [
+      "Koven"
+    ]
+  },
+  {
+    "id": 45,
+    "trackName": "White Noise",
+    "artists": [
+      "Disclosure",
+      "AlunaGeorge"
+    ]
+  }
+]

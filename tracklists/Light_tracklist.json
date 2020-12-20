@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "trackName": "Chthonic Odyssey",
+    "artists": [
+      "Shadow of Intent"
+    ]
+  },
+  {
+    "id": 2,
+    "trackName": "De Cremene",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 3,
+    "trackName": "Stain Of Mind",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 4,
+    "trackName": "Postmortem",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 5,
+    "trackName": "Cult",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 6,
+    "trackName": "Tourniquet",
+    "artists": [
+      "Cripper"
+    ]
+  },
+  {
+    "id": 7,
+    "trackName": "Sacred Serenity",
+    "artists": [
+      "Death"
+    ]
+  },
+  {
+    "id": 8,
+    "trackName": "Septentrion",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 9,
+    "trackName": "Noaptea Nimanui",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 10,
+    "trackName": "Ironside",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 11,
+    "trackName": "Valkyria",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 12,
+    "trackName": "Shield Wall",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 13,
+    "trackName": "Mjolner, Hammer of Thor",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 14,
+    "trackName": "Raven's Flight",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 15,
+    "trackName": "Crack the Sky",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 16,
+    "trackName": "Ultima Iarna",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 17,
+    "trackName": "The Pursuit Of Vikings",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 18,
+    "trackName": "Spune Tu, Vant",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 19,
+    "trackName": "Without Judgement",
+    "artists": [
+      "Death"
+    ]
+  },
+  {
+    "id": 20,
+    "trackName": "Crystal Mountain",
+    "artists": [
+      "Death"
+    ]
+  },
+  {
+    "id": 21,
+    "trackName": "Symbolic",
+    "artists": [
+      "Death"
+    ]
+  },
+  {
+    "id": 22,
+    "trackName": "Wieczernia",
+    "artists": [
+      "Batushka"
+    ]
+  },
+  {
+    "id": 23,
+    "trackName": "Tretij Czas",
+    "artists": [
+      "Batushka"
+    ]
+  },
+  {
+    "id": 24,
+    "trackName": "Slaves of Fear",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 25,
+    "trackName": "Slaves of Fear",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 26,
+    "trackName": "Open Casket",
+    "artists": [
+      "Death"
+    ]
+  },
+  {
+    "id": 27,
+    "trackName": "The Origin",
+    "artists": [
+      "Cripper"
+    ]
+  },
+  {
+    "id": 28,
+    "trackName": "The Beheading Of A King",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 29,
+    "trackName": "Threshold",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 30,
+    "trackName": "Piece By Piece",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 31,
+    "trackName": "Payback",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 32,
+    "trackName": "Asteapta-Ma Dincolo (De Moarte)",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 33,
+    "trackName": "Fafner's Gold",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 34,
+    "trackName": "Raul Vremii",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 35,
+    "trackName": "Luna Preste Varfuri",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 36,
+    "trackName": "Asator",
+    "artists": [
+      "Amon Amarth"
+    ]
+  },
+  {
+    "id": 37,
+    "trackName": "Mechanical Babylon",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 38,
+    "trackName": "Scrum",
+    "artists": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": 39,
+    "trackName": "Beyond Salvation",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 40,
+    "trackName": "Nightfall",
+    "artists": [
+      "Xandria"
+    ]
+  },
+  {
+    "id": 41,
+    "trackName": "Seal The Tomb Below",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 42,
+    "trackName": "In the Minds of Evil",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 43,
+    "trackName": "Scars of the Crucifix",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 44,
+    "trackName": "Godkill",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 45,
+    "trackName": "Prometheus",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 46,
+    "trackName": "Dark Art",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 47,
+    "trackName": "Persepolis",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 48,
+    "trackName": "The Gospels of Fear",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 49,
+    "trackName": "Faceless Queen",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 50,
+    "trackName": "Sunt Munti Si Paduri",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 51,
+    "trackName": "La Apus",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 52,
+    "trackName": "Zi Dupa Zi, Noapte De Noapte",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 53,
+    "trackName": "The End Of The Line",
+    "artists": [
+      "Metallica"
+    ]
+  },
+  {
+    "id": 54,
+    "trackName": "The Four Horsemen",
+    "artists": [
+      "Metallica"
+    ]
+  },
+  {
+    "id": 55,
+    "trackName": "Enemy of Truth",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 56,
+    "trackName": "The Vampire from Nazareth",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 57,
+    "trackName": "Communion",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 58,
+    "trackName": "Trinity",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 59,
+    "trackName": "Hallowed Be Thy Name",
+    "artists": [
+      "Rotting Christ"
+    ]
+  },
+  {
+    "id": 60,
+    "trackName": "Nemecic",
+    "artists": [
+      "Rotting Christ"
+    ]
+  },
+  {
+    "id": 61,
+    "trackName": "Luxtos",
+    "artists": [
+      "Eluveitie"
+    ]
+  },
+  {
+    "id": 62,
+    "trackName": "Virtues of the Beast",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 63,
+    "trackName": "Athanatoi Este",
+    "artists": [
+      "Rotting Christ"
+    ]
+  },
+  {
+    "id": 64,
+    "trackName": "Homage for Satan",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 65,
+    "trackName": "Thou Begone",
+    "artists": [
+      "Deicide"
+    ]
+  },
+  {
+    "id": 66,
+    "trackName": "Possession",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 67,
+    "trackName": "I, Dementia",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 68,
+    "trackName": "The Saw Is the Law",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 69,
+    "trackName": "Elitist Ones",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 70,
+    "trackName": "Black Bear",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 71,
+    "trackName": "Stranded",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 72,
+    "trackName": "Deathhammer",
+    "artists": [
+      "Asphyx"
+    ]
+  },
+  {
+    "id": 73,
+    "trackName": "Unsilent Death",
+    "artists": [
+      "Nails"
+    ]
+  },
+  {
+    "id": 74,
+    "trackName": "The Changeling Prince",
+    "artists": [
+      "Thou"
+    ]
+  },
+  {
+    "id": 75,
+    "trackName": "Pray the Martyr",
+    "artists": [
+      "Shokran"
+    ]
+  },
+  {
+    "id": 76,
+    "trackName": "The Black Sheep",
+    "artists": [
+      "Kataklysm"
+    ]
+  },
+  {
+    "id": 77,
+    "trackName": "Neuroprison",
+    "artists": [
+      "Jesus Piece"
+    ]
+  },
+  {
+    "id": 78,
+    "trackName": "The Heretic Prevails",
+    "artists": [
+      "Shadow of Intent"
+    ]
+  },
+  {
+    "id": 79,
+    "trackName": "Flying Whales",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 80,
+    "trackName": "Duh",
+    "artists": [
+      "Bucovina"
+    ]
+  },
+  {
+    "id": 81,
+    "trackName": "Pain Is a Master",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 82,
+    "trackName": "L'enfant sauvage",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 83,
+    "trackName": "Esoteric Surgery",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 84,
+    "trackName": "Vacuity",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 85,
+    "trackName": "Dante's Inferno",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 86,
+    "trackName": "Lovecraft's Death",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 87,
+    "trackName": "Narcissus",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 88,
+    "trackName": "Narcissus",
+    "artists": [
+      "Septic Flesh"
+    ]
+  },
+  {
+    "id": 89,
+    "trackName": "Gravesinger",
+    "artists": [
+      "Shadow of Intent"
+    ]
+  },
+  {
+    "id": 90,
+    "trackName": "The Gift of Guilt",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 91,
+    "trackName": "Brimstone",
+    "artists": [
+      "Whitechapel"
+    ]
+  },
+  {
+    "id": 92,
+    "trackName": "The Art Of Dying",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 93,
+    "trackName": "Barren and Breathless Macrocosm",
+    "artists": [
+      "Shadow of Intent"
+    ]
+  },
+  {
+    "id": 94,
+    "trackName": "Silvera",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 95,
+    "trackName": "From Mars",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 96,
+    "trackName": "To Sirius",
+    "artists": [
+      "Gojira"
+    ]
+  },
+  {
+    "id": 97,
+    "trackName": "Eclipse",
+    "artists": [
+      "Brand of Sacrifice"
+    ]
+  },
+  {
+    "id": 98,
+    "trackName": "Conjure Life",
+    "artists": [
+      "Jesus Piece"
+    ]
+  },
+  {
+    "id": 99,
+    "trackName": "Punish",
+    "artists": [
+      "Jesus Piece"
+    ]
+  }
+]
